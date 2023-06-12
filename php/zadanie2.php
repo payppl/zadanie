@@ -28,7 +28,8 @@ echo $textInput->getValue();
 
 $numericInput = new NumericInput();
 $numericInput->add("5353");
-$numericInput->add("fghdfh");
+$numericInput->add("fh");
 $numericInput->add("1111");
 echo $numericInput->getValue(); 
+
 ?>
